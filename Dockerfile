@@ -1,6 +1,6 @@
 FROM kitpages/symfony2-nginx
 
-MAINTAINER Kitpages <system@kitpages.fr>
+MAINTAINER Kitpages <system [at] kibatic.com>
 
 RUN apt-get update && apt-get -y install \
     build-essential \
